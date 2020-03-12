@@ -1,0 +1,25 @@
+{
+    "name": "baolq2020/rdcsv",
+    "type": "library",
+    "description": "Read data from csv file",
+    "keywords": [
+        "csv",
+        "read csv",
+        "import csv"
+    ],
+    "homepage": "https://github.com/baolq2020/rdcsv",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ly Quoc Bao",
+            "email": "baolq2020@gmail.com",
+            "homepage": "https://blacknine96.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "baolq2020\\rdcsv\\": "src"
+        }
+    }
+}
